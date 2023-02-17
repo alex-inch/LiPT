@@ -11,7 +11,7 @@ import pandas as pd
 df = pd.read_csv("../data/influencers_data.csv", low_memory=False)
 
 # Trimming cols - the 'hashtags' column could be interesting for
-# producing a specific genre of linkedinfluencer
+# producing a specific genre of LinkedInfluencer
 cols = [
     "name",
     "content",

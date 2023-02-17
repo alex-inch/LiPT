@@ -1,2 +1,2 @@
 # LiPT
-Writing a ground-up GPT model to create Linkedinfluencer content
+A ground-up GPT model to produce LinkedInfluencer content
